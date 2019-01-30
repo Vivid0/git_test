@@ -1,0 +1,1 @@
+This is Vivid0's first git project!
